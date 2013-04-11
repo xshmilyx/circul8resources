@@ -6,10 +6,12 @@
 
 
 **Illustrator**
-Choose expand, outline stroke or similar before copying.
-Open one of the .psds in photoshop and run the Illustrator Paste action.
+
+* Choose expand, outline stroke or similar before copying.
+* Open one of the .psds in photoshop and run the Illustrator Paste action.
 
 
 **Submitting icons**
-Please include all icon sizes so that the icon you've created can be used to theme other apps.
-Also add the source psds to glyphs here.
+
+* Include all icon sizes so that the icon you've created can be used to theme other apps.
+* Add the source psds to glyphs here.
